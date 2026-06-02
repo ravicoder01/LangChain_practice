@@ -10,3 +10,5 @@ sentence_transformers
 langchain_huggingface
 chromadb
 faiss-cpu
+langchain-groq
+langsmith
