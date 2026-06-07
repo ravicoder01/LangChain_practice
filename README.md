@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-[![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://your-streamlit-link-here.streamlit.app)
+[![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://langchainpractice-dcw5vu6wqkguztfc8om7am.streamlit.app/)
 [![LangSmith](https://img.shields.io/badge/Monitored%20by-LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://smith.langchain.com)
 
 ---
